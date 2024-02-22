@@ -19,4 +19,3 @@ Inside GAMEFOLDER (your game folder, ex: "C:\Program Files (x86)\Steam\steamapps
 
 ## 1.0.0
 * Initial release.
-h
